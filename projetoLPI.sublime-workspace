@@ -1,0 +1,861 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"p",
+				"perimetro"
+			],
+			[
+				"s",
+				"sqrt"
+			],
+			[
+				"l",
+				"lb"
+			],
+			[
+				"a",
+				"andar"
+			],
+			[
+				"c",
+				"classificados"
+			],
+			[
+				"i",
+				"inc\t#include <…>"
+			],
+			[
+				"minas",
+				"minas"
+			],
+			[
+				"te",
+				"teste"
+			],
+			[
+				"in",
+				"in"
+			],
+			[
+				"ra",
+				"range"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"send",
+				"send_erro"
+			],
+			[
+				"m",
+				"mtrzAdss"
+			],
+			[
+				"mt",
+				"mtrzAdss"
+			],
+			[
+				"y",
+				"y_bomb"
+			],
+			[
+				"mi",
+				"minaAdss"
+			],
+			[
+				"x",
+				"x_bomb"
+			],
+			[
+				"adss",
+				"adss_dica"
+			],
+			[
+				"se",
+				"set_dicas"
+			],
+			[
+				"sta",
+				"start_y"
+			],
+			[
+				"sa",
+				"start_x"
+			],
+			[
+				"di",
+				"dificuldade"
+			],
+			[
+				"b",
+				"break"
+			],
+			[
+				"ic",
+				"inc\t#include <…>"
+			],
+			[
+				"al",
+				"alfa"
+			],
+			[
+				"f",
+				"frase"
+			],
+			[
+				"pr",
+				"printf\tprintf …"
+			],
+			[
+				"pri",
+				"primos"
+			],
+			[
+				"st",
+				"stdio.h\tstandard header"
+			],
+			[
+				"e",
+				"exit"
+			],
+			[
+				"ma",
+				"math.h\tstandard header"
+			],
+			[
+				"print",
+				"printf\tprintf …"
+			],
+			[
+				"d",
+				"dificuldade"
+			],
+			[
+				"min",
+				"minaAdss"
+			],
+			[
+				"sat",
+				"start_x"
+			],
+			[
+				"set",
+				"set_bomb"
+			],
+			[
+				"ba",
+				"base"
+			],
+			[
+				"_",
+				"_x"
+			],
+			[
+				"com",
+				"comeco"
+			],
+			[
+				"in_",
+				"in_x"
+			],
+			[
+				"de",
+				"decoderAdss_mtrz"
+			],
+			[
+				"som",
+				"some_struct"
+			],
+			[
+				"star",
+				"start"
+			],
+			[
+				"fi",
+				"frist_S"
+			],
+			[
+				"sar",
+				"start"
+			],
+			[
+				"cover",
+				"cover_traces"
+			],
+			[
+				"Y",
+				"y_atual"
+			],
+			[
+				"x_a",
+				"x_atual"
+			],
+			[
+				"y_",
+				"y_atual"
+			],
+			[
+				"x_",
+				"x_atual"
+			],
+			[
+				"ya",
+				"y_anterior"
+			],
+			[
+				"w",
+				"write"
+			],
+			[
+				"xa",
+				"x_anterior"
+			],
+			[
+				"M",
+				"X_MAX"
+			],
+			[
+				"ad",
+				"adss_y"
+			],
+			[
+				"DE",
+				"decoderAdss_mtrz"
+			],
+			[
+				"cam",
+				"campo_size"
+			],
+			[
+				"mr",
+				"mtrzAdss"
+			],
+			[
+				"mina",
+				"minaAdss"
+			],
+			[
+				"fis",
+				"fist_move"
+			],
+			[
+				"n",
+				"nvg"
+			],
+			[
+				"Z",
+				"Z_MAX"
+			],
+			[
+				"es",
+				"else"
+			],
+			[
+				"rer",
+				"retorno"
+			],
+			[
+				"da",
+				"decoderAdss_mtrz"
+			],
+			[
+				"ads",
+				"adss"
+			],
+			[
+				"MI",
+				"minaAdss"
+			],
+			[
+				"z",
+				"z"
+			],
+			[
+				"prin",
+				"print"
+			],
+			[
+				"co",
+				"cont"
+			],
+			[
+				"B",
+				"B_MAX"
+			],
+			[
+				"X",
+				"X_MAX"
+			],
+			[
+				"Y_",
+				"y_max"
+			],
+			[
+				"max",
+				"y_max"
+			],
+			[
+				"li",
+				"lin"
+			],
+			[
+				"ve",
+				"vetor"
+			],
+			[
+				"q",
+				"quadrado"
+			],
+			[
+				"stat",
+				"start_x"
+			],
+			[
+				"corde",
+				"cordenada"
+			],
+			[
+				"cor",
+				"cordenada"
+			],
+			[
+				"prnt",
+				"print_Campo"
+			],
+			[
+				"difi",
+				"dificuldade"
+			],
+			[
+				"qu",
+				"quina_inf_esquerda"
+			],
+			[
+				"qui",
+				"quina_inf_direita"
+			],
+			[
+				"cao",
+				"cordenada"
+			],
+			[
+				"ca",
+				"campo_size"
+			],
+			[
+				"bombs",
+				"bombs"
+			],
+			[
+				"bo",
+				"bombs"
+			],
+			[
+				"me",
+				"menuText"
+			],
+			[
+				"camo",
+				"campo_size"
+			],
+			[
+				"bom",
+				"bombas"
+			],
+			[
+				"bm",
+				"bomba_y"
+			],
+			[
+				"bomba",
+				"bomba_y"
+			],
+			[
+				"menu",
+				"menu"
+			],
+			[
+				"int",
+				"int"
+			],
+			[
+				"C",
+				"char"
+			],
+			[
+				"piso",
+				"pisoo"
+			],
+			[
+				"do",
+				"down"
+			],
+			[
+				"o",
+				"onOff"
+			],
+			[
+				"wi",
+				"while"
+			],
+			[
+				"xy",
+				"xy"
+			],
+			[
+				"str",
+				"strcpy"
+			],
+			[
+				"ex",
+				"exit0"
+			],
+			[
+				"def",
+				"default"
+			],
+			[
+				"bra",
+				"break"
+			],
+			[
+				"ta",
+				"taxa"
+			],
+			[
+				"t",
+				"taxa"
+			],
+			[
+				"P",
+				"printf"
+			],
+			[
+				"A",
+				"a"
+			],
+			[
+				"In",
+				"Insira"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "main.c",
+			"settings":
+			{
+				"buffer_size": 5888,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/User/C_compliler.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/User/C_compliler.sublime-build",
+					""
+				],
+				[
+					"Packages/User/C_compliler.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/C_compliler.sublime-build",
+				"Run"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Snippet: ",
+				"Snippet: Vector For Loop"
+			],
+			[
+				"",
+				"Build With: C_compliler"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 164.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/gusta/Desktop/minesweeper"
+	],
+	"file_history":
+	[
+		"/C/Users/gusta/Desktop/ProgrAmando/threadzinha.c",
+		"/C/Users/gusta/Desktop/ProgrAmando/alpha.c",
+		"/C/Users/gusta/Desktop/minesweeper/bin/Debug/minesweeper.exe",
+		"/C/Users/gusta/Desktop/Threads/main.c",
+		"/C/Users/gusta/Desktop/Threads/main.sublime-workspace",
+		"/C/Users/gusta/Desktop/Nova pasta/main.c",
+		"/C/Users/gusta/Desktop/ProgrAmando/mutiple.c",
+		"/C/Users/gusta/Desktop/ProgrAmando/cofee.c",
+		"/C/Users/gusta/Desktop/ProgrAmando/3.c",
+		"/C/Users/gusta/Desktop/ProgrAmando/kiko.c",
+		"/C/Users/gusta/Desktop/main.c",
+		"/C/Users/gusta/Desktop/minesweeper/basic.h",
+		"/C/Users/gusta/Desktop/minesweeper/basic.c",
+		"/C/Users/gusta/Desktop/minesweeper/setup.h",
+		"/C/Users/gusta/Desktop/minesweeper/setup.c",
+		"/C/Users/gusta/Desktop/minesweeper/main.c",
+		"/C/Users/gusta/Downloads/minesweeper/setup.c",
+		"/C/Users/gusta/Desktop/boolean/main.c",
+		"/C/Users/gusta/Desktop/aba/teste.c",
+		"/C/Users/gusta/Documents/CampoMInado/colors.c",
+		"/C/Users/gusta/Desktop/minesweeper/soma.c",
+		"/C/Users/gusta/Desktop/ProgrAmando/agoravai.c",
+		"/C/Users/gusta/Desktop/ProgrAmando/primos.c",
+		"/C/Users/gusta/Desktop/ProgrAmando/soma.c",
+		"/C/Users/gusta/Desktop/ProgrAmando/p.c",
+		"/C/Users/gusta/Desktop/ProgrAmando/trip.c",
+		"/C/Users/gusta/Documents/j/setups.h",
+		"/C/Users/gusta/Documents/j/setups.c",
+		"/C/MinGW/include/windows.h",
+		"/C/Users/gusta/Documents/j/guittar.c",
+		"/C/Users/gusta/Documents/j/pontinho.c",
+		"/C/Users/gusta/Documents/j/basic.h",
+		"/C/Users/gusta/Documents/CampoMInado/main.c",
+		"/C/Users/gusta/Documents/j/agoraVai.c",
+		"/C/Users/gusta/Documents/j/Mtrz3D_agrVai.c",
+		"/C/Users/gusta/Documents/j/engine.c",
+		"/C/Users/gusta/Desktop/l/main.c",
+		"/C/Users/gusta/Documents/k/main.c",
+		"/C/Users/gusta/Desktop/aba/main.c",
+		"/C/Users/gusta/Desktop/l/ponto q aponta pro ponto apontando.c",
+		"/C/Program Files (x86)/CodeBlocks/MinGW/include/windowsx.h",
+		"/C/Program Files (x86)/CodeBlocks/MinGW/include/windows.h",
+		"/C/Users/gusta/Documents/j/codex_bomb.c",
+		"/C/Users/gusta/Documents/main.c",
+		"/C/Users/gusta/Desktop/seta/main.c",
+		"/C/Users/gusta/Documents/k/console.c",
+		"/C/Users/gusta/Documents/j/main.c",
+		"/C/MinGW/include/string.h",
+		"/C/MinGW/include/stdio.h",
+		"/C/Users/gusta/Documents/k/main.exe",
+		"/C/Users/gusta/AppData/Roaming/Sublime Text 3/Packages/User/C_compliler.sublime-build"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"{",
+			"frases",
+			"[i]",
+			"perimetro",
+			"scanf",
+			"ab",
+			")-(",
+			":",
+			"case",
+			"f=",
+			"f",
+			"==",
+			"a=",
+			"a",
+			"w",
+			"resultado",
+			"tempo",
+			"temp",
+			"case",
+			"short",
+			"i",
+			"\\x1b[37;1m",
+			"case",
+			"1",
+			"x",
+			"X",
+			"x",
+			"X",
+			"x",
+			"decoderAdss_mtrz",
+			"*adss_dica",
+			"= 1",
+			"++",
+			"a++ ",
+			"++ ",
+			"*adss",
+			", 1,",
+			"x",
+			"(unsigned)",
+			"decoderAdss_mtrz",
+			"exit",
+			"decoderAdss_mtrz(minaAdss, 0, B_MAX, 2, 0, i, 1)",
+			"*decoderAdss_mtrz(minaAdss, 0, B_MAX, 2, 0, i, 0)",
+			"decoderAdss_mtrz",
+			"adss_y",
+			"*adss_x",
+			"dica",
+			"*adss_",
+			"//if(",
+			"//",
+			"if",
+			"if( *adss",
+			" if( *adss_",
+			"{",
+			"\\x1b[42m",
+			"\\x1b[42",
+			"0m",
+			"[30",
+			"31m",
+			"cusor",
+			"u00",
+			" X_MAX -1",
+			"printf(\"ERRO: 65!\"); exit(65)",
+			"printf(\"ERRO: 65!\"); exit(65);",
+			"printf(\"ERRO: 65!\");",
+			"exit(65);",
+			"else",
+			"primos",
+			"bob",
+			"rand()",
+			"(*adss_x",
+			"(*adss_y",
+			"lin\\col",
+			"NULL",
+			"=  rand() % nivel.z;",
+			"lin\\col = ",
+			"adss",
+			" adss",
+			", 0,",
+			"s, 0,",
+			"2, 0,",
+			"0",
+			"(unsigned char)",
+			"(unsigned)",
+			"unsigned",
+			" =",
+			"unsigned char",
+			"10",
+			"(char)",
+			"rand()",
+			"*decoderAdss",
+			"ra",
+			"adss_",
+			"decoderAdss_mtrz",
+			"(char)",
+			"char",
+			"||",
+			"int",
+			"<",
+			"- 1",
+			"nivel",
+			" se ",
+			"//",
+			"////////////////////////////////////////////////////////////////////////////////////////////////////",
+			"///////////////////////////////////////////////////////////////////////////////////////////////////",
+			"//////////////////////////////////////////////////////////////////////////////////////////////////",
+			"/////////////////////////////////////////////////////////////////////////////////////////////////",
+			"////////////////////////////////////////////////////////////////////////////////////////////////",
+			"///////////////////////////////////////////////////////////////////////////////////////////////",
+			"//////////////////////////////////////////////////////////////////////////////////////////////",
+			"/////////////////////////////////////////////////////////////////////////////////////////////",
+			"////////////////////////////////////////////////////////////////////////////////////////////",
+			"///////////////////////////////////////////////////////////////////////////////////////////",
+			"//////////////////////////////////////////////////////////////////////////////////////////",
+			"/////////////////////////////////////////////////////////////////////////////////////////",
+			"////////////////////////////////////////////////////////////////////////////////////////",
+			"///////////////////////////////////////////////////////////////////////////////////////",
+			"//////////////////////////////////////////////////////////////////////////////////////",
+			"/////////////////////////////////////////////////////////////////////////////////////",
+			"////////////////////////////////////////////////////////////////////////////////////",
+			"///////////////////////////////////////////////////////////////////////////////////",
+			"//////////////////////////////////////////////////////////////////////////////////",
+			"/////////////////////////////////////////////////////////////////////////////////",
+			"////////////////////////////////////////////////////////////////////////////////",
+			"///////////////////////////////////////////////////////////////////////////////",
+			"//////////////////////////////////////////////////////////////////////////////",
+			"/////////////////////////////////////////////////////////////////////////////",
+			"////////////////////////////////////////////////////////////////////////////"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"folders":
+	[
+		{
+			"path": "C:\\Users\\gusta\\Desktop\\minesweeper"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "main.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5888,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 38.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 154.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/C_compliler.sublime-build",
+	"project": "",
+	"replace":
+	{
+		"height": 72.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 195.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
